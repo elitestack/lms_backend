@@ -24,9 +24,9 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'http://localhost:3001',
-  'https://procoin.vercel.app',
-  'http://192.168.32.20:3000'
+  'https://eduflowlms.vercel.app',
+  // 'https://procoin.vercel.app',
+  // 'http://192.168.32.20:3000'
 ];
 
 
